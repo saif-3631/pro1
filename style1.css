@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    overflow: hidden;
+}
+.parent{
+    height: auto;
+    width: auto;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child{
+    background-color: rgb(184, 163, 132);
+    height: 400px;
+    width: 700px;
+    margin: 150px;
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+section{
+    text-align: center;
+}
+
